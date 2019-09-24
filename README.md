@@ -1,7 +1,7 @@
 # AlgorithmsDataStructures
-> Various solutions to exercises in Algorithms &amp; Data Structures. 
+> Various solutions to exercises in Algorithms, Data Structures &amp; Number Theory. 
 
-> provided alongside complexity analysis and explanation.
+> provided with complexity analysis and explanation.
 
 **Languages used:**
 
