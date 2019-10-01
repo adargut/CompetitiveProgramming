@@ -95,8 +95,6 @@ public class Solution {
 				  updateMat(mat, xPos, yPos, direction);
 			  }
 			  int [] location = bestLocation(mat);
-			  //System.out.println(Arrays.deepToString(mat));
-			  //System.out.println(mat[location[0]][location[1]]);
 			  System.out.println("Case #" + i + ": " +location[0] + " " + location[1]);
 		  } // end of test case
 	}
