@@ -15,3 +15,4 @@
 - Hackerrank
 - Google Code Jam 
 - Codility
+- CLRS book
